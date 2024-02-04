@@ -2,8 +2,8 @@
 下载芒果题库的题
 
 ## 安装
-1. 安装pandoc（https://pandoc.org/installing.html）
-2. 安装油猴浏览器插件（https://www.tampermonkey.net/）
+1. 安装[pandoc](https://pandoc.org/installing.html)
+2. 安装[油猴浏览器插件](https://www.tampermonkey.net/)
 3. 导入仓库里的脚本
 4. 下载芒果题库下载器
 
