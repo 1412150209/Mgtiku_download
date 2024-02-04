@@ -4,7 +4,7 @@
 ## 安装
 1. 安装[pandoc](https://pandoc.org/installing.html)
 2. 安装[油猴浏览器插件](https://www.tampermonkey.net/)
-3. 导入仓库里的脚本
+3. 导入仓库里的脚本，或者点击[这里](https://update.greasyfork.org/scripts/486580/%E8%8A%92%E6%9E%9C%E9%A2%98%E5%BA%93%E8%AF%95%E5%8D%B7%E4%B8%8B%E8%BD%BD.user.js)
 4. 下载芒果题库下载器
 
 ## 使用
